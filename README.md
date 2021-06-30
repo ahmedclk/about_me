@@ -1,5 +1,5 @@
 # Ahmet CELIK
-Hi, I am Ahmet from Turkey, and i am working on Data Science and Cyber Security. I write code with programs such as C#, PHP and Python. I love working with Pandas and Seaborn in Data Science.
+Hi, I am Ahmet from Turkey, and highly enthusiastic computer engineer with 10 years experience as a trainer and coach who prepares students for national and international robotics projects (FRC, PiWars, MEB Robot). Holding a master degree and two bachelors degrees in Computer Engineering. Cisco CCNA certified. My enthusiasm draws me to advance my skills in CompTIA Security+, Data Science, Full-stack software development.
 
 ## Skills and Experience
 * ⚛ Programming Languages: Python, Java, HTML, CSS, JavaScript, PHP, C#
