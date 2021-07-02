@@ -9,3 +9,6 @@ Hi, I am Ahmet from Turkey, and highly enthusiastic computer engineer with 10 ye
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmedclk&show_icons=true&theme=dracula" align='center' width="60%">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedclk" alt="ahmet celik" /> </p>
