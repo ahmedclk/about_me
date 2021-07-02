@@ -8,4 +8,4 @@ Hi, I am Ahmet from Turkey, and highly enthusiastic computer engineer with 10 ye
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedclk&show_icons=true&theme=dracula" align='center' width="75%">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedclk&show_icons=true&theme=dracula" align='center' width="60%">
