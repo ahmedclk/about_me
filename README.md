@@ -1,4 +1,4 @@
-#About me#
+#About me #
 
 I am a Computer Engineer with 12 years of teaching experience. During this time, I gave trainings on many subjects and learned new things. I prepared my students for many robotic projects. Some of them are FRC, PiWars, MEB Robot. In these projects, I used development boards such as RoboRIO, Raspberry pi 3, Arduino. I also took IoT trainings. I used programming languages ​​such as C++, Java and Python in these projects.
 
