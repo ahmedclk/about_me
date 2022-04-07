@@ -11,7 +11,9 @@
 ## Experience
 
 > Lessons i teach:
+
  • Microsoft office software
+ 
  • Fundamentals of information technology
  • Programming fundamentals (python, c#)
  • Object oriented programming (python, c#)
