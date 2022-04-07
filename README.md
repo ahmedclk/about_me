@@ -29,6 +29,8 @@
 > • Open-source operating systems (pardus)
 > 
 > I developed projects with Arduino, Raspberry Pi 3 and RoboRIO.
+> 
+> I have been working in the field of data science for the last 2 years.
 
 ## Skills
 
