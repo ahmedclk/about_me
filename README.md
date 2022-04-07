@@ -13,14 +13,21 @@
 > Lessons i teach:
 
 > • Microsoft office software
+> 
 > • Fundamentals of information technology
+> 
 > • Programming fundamentals (python, c#)
+> 
 > • Object oriented programming (python, c#)
+> 
 > • Web design and programming (html, css, js, php)
+> 
 > • Network systems and routing
+> 
 > • Server operating systems (windows 2012)
+> 
 > • Open-source operating systems (pardus)
-
+> 
 > I developed projects with Arduino, Raspberry Pi 3 and RoboRIO.
 
 ## Skills
